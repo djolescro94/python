@@ -1,0 +1,1 @@
+while nombre <= 100:
